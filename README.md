@@ -1,5 +1,6 @@
 # Planejador Curricular
 ## Aluno: Antônio Gabriel dos Santos Barbosa
+##        Eudes de Oliveira rocha
 # Trabalho acadêmico da disciplina de Estruturas de Dados — Tema C.
 
 ## Aplicação em Python que organiza a ordem correta para cursar as disciplinas do curso de Ciência da Computação, respeitando os pré-requisitos de cada matéria. O núcleo lógico é baseado na teoria dos grafos, utilizando um Grafo Direcionado Acíclico (DAG) e o algoritmo de Ordenação Topológica.
