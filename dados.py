@@ -3,14 +3,13 @@ DISCIPLINAS: dict[ str, list[str]] = {
 
     "Fundamentos de Matemática Computacional": [],
     "Fundamentos da Programação": [],
-    "Fundamentos de P.C.E.A de Comptadores": [],
+    "Fundamentos de P.C.E.A de Computadores": [],
     "Inglês para Computação": [],
 
     # 2° Período
 
     "Cálculo I": ["Fundamentos de Matemática Computacional"],
     "Laboratório de Programação": ["Fundamentos da Programação"],
-    "Experiência Extensionista I": [],
     "Redes de Computadores": ["Fundamentos de P.C.E.A de Computadores"],
 
     # 3° Período
@@ -39,7 +38,6 @@ DISCIPLINAS: dict[ str, list[str]] = {
     
     #6° Período
 
-    "Experiência Extensionista II": ["Experiência Extensionista I"],
     "Inteligência Artificial": ["Estrutura de Dados Avançada"],
     "Linguagens Formais e Autômatos": ["Teoria da Computação"],
     "Sistemas Operacionais": ["Estrutura de Dados", "Fubdamentos de P.C.E.A de Computadores"],
@@ -47,23 +45,20 @@ DISCIPLINAS: dict[ str, list[str]] = {
     # 7° Período
 
     "Compiladores": ["Linguagens Formais e Autômatos"],
-    "Experiência Extensionista III": ["Experienência Extensionista II"],
     "Interface Humano Computador": ["Engenharia de Software"],
     "Laboratório de Banco de Dados": ["Modelagem de Dados"],
-    "Machine Learning": ["INteligência Artificial", "EStatística Computacional"],
+    "Machine Learning": ["Inteligência Artificial", "Estatística Computacional"],
 
     # 8° Período
 
-    "Experiência Extensionista IV": ["Experiência Extensionista III"],
-    "Processamento de Imagens de C Gráfica": ["Cálculo II", "Estrtura de Dados Avançada"],
-    "Programação Avançada": ["EStrutura de Dados Avançada"],
-    "Project Lab": ["Laboratório de ENgenharia de Software", "Laboratório de Banco de Dados"],
+    "Processamento de Imagens de C Gráfica": ["Cálculo II", "Estrutura de Dados Avançada"],
+    "Programação Avançada": ["Estrutura de Dados Avançada"],
+    "Project Lab": ["Laboratório de Engenharia de Software", "Laboratório de Banco de Dados"],
 
     # 9° Período
 
     "Direito Digital": [],
     "Estágio Supervisionado": ["Project Lab"],
-    "Experiência Extensionista V": ["Experiência Extensionista IV"],
     "TCC": ["Compiladores", "Redes de Computadores", "Engenharia de Software", "Laboratório de Banco de Dados"]
 
 
